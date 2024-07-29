@@ -1,4 +1,4 @@
-# Project Title :  EFabric defects detection
+# Project Title :  Fabric defects detection
 # Year : 2013
 # Author : Zahra Sarayloo
 
